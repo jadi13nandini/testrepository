@@ -1,5 +1,5 @@
-print("Welcome to gitHub")
 a=100
 b=200
 c=a*b
 print(c)
+print("hello world")
